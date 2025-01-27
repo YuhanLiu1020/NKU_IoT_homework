@@ -1,0 +1,5 @@
+﻿  client_main.cpp
+E:\computer_network\Lab1\client\client_main.cpp(72,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\computer_network\Lab1\client\client_main.cpp(119,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\computer_network\Lab1\client\client_main.cpp(124,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> E:\computer_network\Lab1\client\x64\Debug\client.exe
